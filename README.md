@@ -34,6 +34,7 @@ Binamik:
 Compras no cartão de credito geram 1% de cashback do total da compra.
 
 Compra do Turista 1:
+
 2 ingressos do Parque Ecologico: R$200,00. Cashback R$4,00
 2 ingressos do Rio da Prata = R$400,00. Cashback R$12,00
 2 ingressos da Lagoa Misteriosa = R$300,00. Cashback R$0,00
@@ -41,6 +42,7 @@ Total da compra R$900,00. Cashback da Binamik R$9,00
 Total de cashback da compra R$25,00
 
 Compra do Turista 2:
+
 3 ingressos do Parque Ecologico = R$300,00. Cashback R$6,00
 3 ingressos da Lagoa Misteriosa = R$450,00. Cashback R$0,00
 Total da compra R$750,00. Cashback da Binamik R$7,50
