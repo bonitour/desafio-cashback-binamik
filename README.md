@@ -12,38 +12,36 @@ Escreva a documentação que julgar necessário para que quem use a API não ten
 Utilize o banco de dados que considerar mais aplicável ao problema.
 O desafio deve ser preferencialmente implementado utilizando Ruby on Rails, porém caso haja preferencia por outra stack poderá ser utilizada. 
 
-Bonus:
+## Bonus:
  - Ter autenticação de login e senha por turista
  - Testes unitarios
 
-Cenario:
+## Cenario:
 
-Fornecedor 1 - Parque Ecologico:
+### Fornecedor 1 - Parque Ecologico:
 valor do ingresso R$100,00
 cashback de 2%
 
-Fornecedor 2 - Rio da Prata:
+### Fornecedor 2 - Rio da Prata:
 valor do ingresso R$200,00
 cashback de 3%
 
-Fornecedor 3 - Lagoa Misteriosa:
+### Fornecedor 3 - Lagoa Misteriosa:
 valor do ingresso R$150,00
 cashback de 0%
 
-Binamik:
+### Binamik:
 Compras no cartão de credito geram 1% de cashback do total da compra.
 
-Compra do Turista 1:
+### Compra do Turista 1:
+- 2 ingressos do Parque Ecologico: R$200,00. Cashback R$4,00
+- 2 ingressos do Rio da Prata = R$400,00. Cashback R$12,00
+- 2 ingressos da Lagoa Misteriosa = R$300,00. Cashback R$0,00
+- Total da compra R$900,00. Cashback da Binamik R$9,00
+- Total de cashback da compra R$25,00
 
-2 ingressos do Parque Ecologico: R$200,00. Cashback R$4,00
-2 ingressos do Rio da Prata = R$400,00. Cashback R$12,00
-2 ingressos da Lagoa Misteriosa = R$300,00. Cashback R$0,00
-Total da compra R$900,00. Cashback da Binamik R$9,00
-Total de cashback da compra R$25,00
-
-Compra do Turista 2:
-
-3 ingressos do Parque Ecologico = R$300,00. Cashback R$6,00
-3 ingressos da Lagoa Misteriosa = R$450,00. Cashback R$0,00
-Total da compra R$750,00. Cashback da Binamik R$7,50
-Total de cashback da compra R$13,50
+### Compra do Turista 2:
+- 3 ingressos do Parque Ecologico = R$300,00. Cashback R$6,00
+- 3 ingressos da Lagoa Misteriosa = R$450,00. Cashback R$0,00
+- Total da compra R$750,00. Cashback da Binamik R$7,50
+- Total de cashback da compra R$13,50
