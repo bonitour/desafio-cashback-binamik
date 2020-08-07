@@ -7,10 +7,11 @@ Para isso precisamos de um sistema para gerenciar as seguintes transações:
 - 2 - gastar cashback
 - 3 - consulta de saldo
 
-Todas as requisições devem ter como formato `application/json`.
-Escreva a documentação que julgar necessário para que quem use a API não tenha duvidas de seu funcionamento.
-Utilize o banco de dados que considerar mais aplicável ao problema.
-O desafio deve ser preferencialmente implementado utilizando Ruby on Rails, porém caso haja preferencia por outra stack poderá ser utilizada. 
+Requisitos:
+- Todas as requisições devem ter como formato `application/json`.
+- Escreva a documentação que julgar necessário para que quem use a API não tenha duvidas de seu funcionamento.
+- Utilize o banco de dados que considerar mais aplicável ao problema.
+- O desafio deve ser preferencialmente implementado utilizando Ruby on Rails, porém caso haja preferencia por outra stack poderá ser utilizada. 
 
 ## Bonus:
  - Ter autenticação de login e senha por turista
