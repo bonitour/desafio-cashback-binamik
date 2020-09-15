@@ -1,7 +1,7 @@
 # Desafio Backend - Api Cashback
 
 O objetivo do desafio é construir uma api [REST](https://pt.wikipedia.org/wiki/REST) que implementa o serviço responsavel por controlar o cashback dos turistas.
-Contexto: A Binamik é uma empresa que irá gerenciar a venda de ingressos de diversos fornecedores, similarmenta á um marketplace. Nessas vendas ela deseja oferecer ao turista um cashback, o qual pode ser utilizado em compras futuras. Devemos conseguir rastrear qual fornecedor está dando quanto de cashback, sendo a binamik uma delas.
+Contexto: A Binamik é uma empresa que irá gerenciar a venda de ingressos de diversos fornecedores, similarmente á um marketplace. Nessas vendas ela deseja oferecer ao turista um cashback, o qual pode ser utilizado em compras futuras. Devemos conseguir rastrear qual fornecedor está dando quanto de cashback, sendo a binamik uma delas.
 Para isso precisamos de um sistema para gerenciar as seguintes transações:
 - 1 - receber cashback
 - 2 - gastar cashback
